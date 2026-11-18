@@ -20,20 +20,23 @@ Grade 11. I love math, so I started self-studying for the SOA exams and passed *
 
 ### 📊 FinHub Tracker &nbsp;[![live](https://img.shields.io/badge/live-1f6feb?style=flat-square&logo=vercel&logoColor=white)](https://finhubtracker-maudung.vercel.app/) [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dung037517-netizen/finhub-tracker) [![the math](https://img.shields.io/badge/the_math-0e75b6?style=flat-square)](https://github.com/dung037517-netizen/finhub-tracker/blob/main/DERIVATION.md)
 
-College savings planned as a risk problem, with 1,200 simulated market paths. Saving for the
-*expected* return ($777 a month) still runs short about half the time; 90% confidence takes $1,090 a
-month. That gap is a **risk margin**.
+Budgeting, savings goals and month-by-month cash flow for students, built on the real cost structure
+of U.S. college applications. It shows what to be ready for in 9 out of 10 outcomes, not just the
+expected total. A second page tests four years of college costs against 1,200 simulated market paths:
+reaching 90% confidence costs about 40% more per month than saving for the expected return.
 
-### 🧮 MathForge &nbsp;[![live](https://img.shields.io/badge/live-8957e5?style=flat-square&logo=vercel&logoColor=white)](https://mathforge-blush.vercel.app/) [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dung037517-netizen/mathforge)
+### 🧮 MathForge &nbsp;[![live](https://img.shields.io/badge/live-8957e5?style=flat-square&logo=vercel&logoColor=white)](https://mathforge-blush.vercel.app/) [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dung037517-netizen/mathforge) [![method](https://img.shields.io/badge/method-0e75b6?style=flat-square)](https://mathforge-blush.vercel.app/method)
 
-SAT/AP calculus and statistics solved step by step, with each topic tied to actuarial math. Example:
-∫₀^∞ e^(−0.05t) dt = 20 is the present value of a perpetuity.
+SAT and AP math practice (algebra, calculus, statistics) built around a diagnose → practice → review
+loop, with step-by-step solutions and a Digital-SAT-style mock test. Mastery estimates borrow from
+actuarial credibility theory: a skill with little data is pulled toward related skills.
 
 ### ⠿ BrailleGuard AI &nbsp;[![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dung037517-netizen/braille-ai-jam-2026)
 
 **AI-JAM US 2026: 9th of 840 entries from 41 countries, Silver Award (Healthcare).** My idea; I led a
 team of three and built it with AI tools. It checks the Braille on medicine packaging from a photo,
-since one flattened dot turns PARACETAMOL into PARACETAMEL. MVP with a simulated inference engine.
+since one flattened dot turns PARACETAMOL into PARACETAMEL. A photo too blurry, dark or small to judge
+goes to HUMAN REVIEW instead of being passed. MVP with a simulated inference engine.
 
 ## 🧾 How I build with AI
 
